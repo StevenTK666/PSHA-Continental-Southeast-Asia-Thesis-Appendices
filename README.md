@@ -33,9 +33,9 @@ This folder contains the magnitude–frequency distribution figures used to esti
 
 ### OpenQuake Input Files / OpenQuake 輸入檔案
 
-This folder contains the major OpenQuake-engine input files used in the PSHA calculations.
+This folder contains the major OpenQuake-engine input files used in this study, including the main PSHA model with SHERIFS, the comparison model without SHERIFS, and the BPT model.
 
-本資料夾收錄本研究進行機率式地震危害分析所使用之主要 OpenQuake-engine 輸入檔案。
+本資料夾收錄本研究所使用之主要 OpenQuake-engine 輸入檔案，包括納入 SHERIFS 之主要 PSHA 模型、未納入 SHERIFS 之比較模型，以及 BPT 時間相依模型。
 
 ## Author / 作者
 
