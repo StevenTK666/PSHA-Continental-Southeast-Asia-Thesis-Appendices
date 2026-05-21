@@ -1,5 +1,5 @@
 # 中南半島地震危害分析論文附錄  
-# Thesis Appendices for Probabilistic seismic hazard assessments for continental Southeast Asia
+# Thesis Appendices for Probabilistic Seismic Hazard Assessments for Continental Southeast Asia
 
 本資料庫收錄碩士論文《中南半島地震危害分析》之附錄、補充資料與 OpenQuake-engine 輸入檔案。內容包括活動斷層參數表、整體研究區規模－頻率回歸圖、各研究分區規模－頻率回歸圖，以及本研究地震危害分析所使用之主要輸入檔案。
 
